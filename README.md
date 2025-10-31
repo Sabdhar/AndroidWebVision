@@ -345,3 +345,5 @@ MIT License - Feel free to use in your projects!
 ---
 
 **Built with ❤️ using Lovable, React, and cutting-edge web AI**
+#   A n d r o i d W e b V i s i o n  
+ 
