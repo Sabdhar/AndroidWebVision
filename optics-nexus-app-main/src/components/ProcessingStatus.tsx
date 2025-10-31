@@ -9,7 +9,7 @@ interface ProcessingStatusProps {
 export const ProcessingStatus = ({ progress, status }: ProcessingStatusProps) => {
   return (
     <div className="space-y-4">
-      <div className="flex items-center justify-center gap-3">
+      <div className="flex items-center justify-center gap-3"></div>
         <Loader2 className="h-5 w-5 animate-spin text-primary" />
         <p className="text-sm font-medium">{status}</p>
       </div>
