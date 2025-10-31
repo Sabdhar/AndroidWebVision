@@ -1,6 +1,6 @@
 # AI Background Remover - Android + Web App
 
-> **AI-powered background removal** that works on **web and Android** using browser-based ML models. No native OpenCV required!
+> **AI-powered background removal** that works on **web and Android** using browser-based ML models. No native OpenCV required
 
 ![AI Background Remover Demo](https://img.shields.io/badge/Platform-Web%20%7C%20Android-blue) ![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20TypeScript%20%7C%20Transformers.js-green)
 
